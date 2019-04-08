@@ -1,6 +1,13 @@
-# todos
+# To-do list with Vue.js
 
 > to do list
+- Create a todo
+- Delete todo
+- Mark a todo as completed
+- Mark a todo as uncompleted
+- Filter todos completed
+- Filter todos uncompleted
+
 
 ## Build Setup
 
